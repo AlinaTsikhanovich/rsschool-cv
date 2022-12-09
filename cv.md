@@ -1,18 +1,22 @@
-# ALINA TSIKHANOVICH
+## ALINA TSIKHANOVICH
+![Alt-photo](IMG_2487.JPG)
+
 *****
-## Junior Frontend Developer
-__******__
-## Contact information:
+### Junior Frontend Developer
+******
+### Contact information:
 **Phone:** +48786497495
+
 **E-mail:** Alina336966@gmail.com
+
 [GitHub][def]
 
 [def]: https://github.com/AlinaTsikhanovich"GitHub"
-__******__
-## Briefly About Myself:
+******
+### Briefly About Myself:
 I want to learn Front-End Development in RSSchool
-__*****__
-## Code example:
+*****
+### Code example:
 ```
 const assert = require("chai").assert;
 
@@ -25,8 +29,8 @@ describe("Multiply", () => {
   });
 });
 ```
-__******__
-## Language: 
+******
+### Language: 
 * **English** level - A2
 * **Polish** level - A2
 * **Russian** level - Native 
